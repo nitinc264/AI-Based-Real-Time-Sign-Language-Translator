@@ -1,8 +1,6 @@
-# AI-Based-Real-Time-Sign-Language-Translator-Convert-sign-language-into-text-or-speech.
+# AI-Based-Real-Time-Sign-Language-Translator
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-# AI-Based Real-Time Sign Language Translator 🤟🧠💬
 
 A real-time AI-powered system that translates sign language into text or speech using computer vision and deep learning. This tool aims to bridge communication gaps between the hearing-impaired and the hearing community.
 
